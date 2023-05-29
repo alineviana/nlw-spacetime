@@ -1,0 +1,9 @@
+{
+    "extends": [
+      "@rocketseat/eslint-config/node"
+    ],
+    "rules": {
+      "validateLineBreaks": 0,
+      "camelcase": "off"
+    }
+}
